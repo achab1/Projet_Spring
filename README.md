@@ -11,6 +11,9 @@ Il permet non seulement de consulter tous les points de terminaison de l'applica
 
 
 Interfaces de Postman
+Pour le test nous avons utilisé l'application Postman pour afficher le contenu de notre base de données et pour nous connecter à la base en utilisant le id. 
+Pour cela, nous avons créer dans "Projet Ecole", une collection nommée "admin".
+Dans cette collection nous avons ajouté le folder appelé "role" dans lequel on a créé des request "save", "all" pour l'affichage, "findById" et "login" pourla connexion
 
 ![Save](https://user-images.githubusercontent.com/112700832/219902359-3601d74e-557d-4609-977f-ea33219d7008.PNG)
 ![All](https://user-images.githubusercontent.com/112700832/219902362-d81da3a4-d48a-4dbc-8506-4655b5723fce.PNG)
